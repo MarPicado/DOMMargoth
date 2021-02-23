@@ -88,7 +88,7 @@
         {
             "slug": "05-Create-DOM-Element-First",
             "title": "05-Create-DOM-Element-First",
-            "done": false,
+            "done": true,
             "path": "exercises/05-Create-DOM-Element-First",
             "translations": [
                 "es",
@@ -99,7 +99,7 @@
         {
             "slug": "06-Create-DOM-Element-Second",
             "title": "06-Create-DOM-Element-Second",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Create-DOM-Element-Second",
             "translations": [
                 "es",

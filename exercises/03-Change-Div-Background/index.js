@@ -1,2 +1,2 @@
 let mydiv = document.querySelector("#myDiv");
-mydiv.style.background = "yellow";
+mydiv.style.background = "blue";

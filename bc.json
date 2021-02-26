@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://yellow-ape-76d4068e.ws-us03.gitpod.io",
+    "address": "https://olive-marten-kd6pkwmb.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -143,7 +143,7 @@
         {
             "slug": "10-Render-on-Click",
             "title": "10-Render-on-Click",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Render-on-Click",
             "translations": [
                 "es",
@@ -154,7 +154,7 @@
         {
             "slug": "11-Add-LI-on-Click",
             "title": "11-Add-LI-on-Click",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Add-LI-on-Click",
             "translations": [
                 "es",
